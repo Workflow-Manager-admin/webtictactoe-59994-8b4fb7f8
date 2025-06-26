@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && python manage.py migrate && python manage.py runserver <host>:<port>",
+    "working_directory": "/home/kavia/workspace/code-generation/webtictactoe-59994-8b4fb7f8/tic_tac_toe_backend_workspace/tic_tac_toe_backend"
+}
